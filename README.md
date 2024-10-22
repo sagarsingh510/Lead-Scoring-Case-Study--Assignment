@@ -17,7 +17,9 @@ An ideal lead conversion process to be followed at X-education is completed in m
 3.	Sales team collects the initial pool of the data 
 4.	Lead Nurturing (Identify the Hot Leads after educating them about the products and benefits) 
 5.	Lead Conversion 
-Here, as we progress in the stages we are left only with concrete leads, which have higher chances of getting converted. Since, we are already given with the lead pool, the main focus of our case study will revolve around the Lead Nurturing / Hot Leads Identification. 
+Here, as we progress in the stages we are left only with concrete leads, which have higher chances of getting converted. Since, we are already given with the lead pool, the main focus of our case study will revolve around the Lead Nurturing / Hot Leads Identification.
+![image](https://github.com/user-attachments/assets/ead4c2b9-fc5e-4132-8674-e440230a208b)
+
   
 Project Goal 
 With this Case study, we will try: 
