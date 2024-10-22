@@ -9,12 +9,15 @@ This Lead scoring project for a course content development organization will hel
     2.	A Model with at least 80% efficient leads (conversion rate ~ 80%) 
         can be deployed and used for tracking the leads by the 
         organization. 
-**Online Course Sells and Support Business Understanding** 
-*Online Course Leads Business*
+        
+## Online Course Sells and Support Business Understanding** 
+**Online Course Leads Business**
+
 The online courses company sells online courses to industry professionals. On any given day, many professionals who are interested in the courses land on their website through various websites and search engines to browse for the courses. 
 Once a person lands on the website, they might indulge in various activities like browsing the courses or filling up a form for the course or watch some videos. When a person fills up a form providing their email address or phone number, they are classified to be a **Lead**. 
  Once a visit has been converted into lead, the sales team starts communicating with them to get them converted into buying their courses. From the past experience, the typical lead conversion rate at X education is noted to be around 30%. 
 To improve the conversion rate and hence making the sales team more efficient, the company is intended to identify the most potential leads, as Hot Leads. With this, the sales team can focus more on conversion of a potential customer rather than wasting time on those whose chances of conversion is very less. 
+
 ### Working of Lead Conversion Process 
 An ideal lead conversion process to be followed at X-education is completed in multiple steps:  
    1.	Social Media Marketing pulls the visitors on the website 
