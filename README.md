@@ -1,7 +1,9 @@
 # Lead-Scoring-Case-Study--Assignment
                                               Leads-Scoring-Case-Study 
 ## Project Objective 
-This Lead scoring project for a course content development organization will help them with less time wastage over the poor conversion score. This Project will benefit the Marketing and sales team focus on the most prominent conversion of a lead by scoring it from 0 to 1. A lead with lead score of Zero (0) are least likely to go for a course and hence it is better to not waste much time calling or following up with them. While a lead with lead score of near to 1 are more likely to be converted and hence a campaign and sales team can invest time on their conversion. The main aims of this Machine Learning project are: 
+This Lead scoring project for a course content development organization will help them with less time wastage over the poor conversion score. This Project will benefit the Marketing and sales team focus on the most prominent conversion of a lead by scoring it from 0 to 1. A lead with lead score of Zero (0) are least likely to go for a course and hence it is better to not waste much time calling or following up with them. While a lead with lead score of near to 1 are more likely to be converted and hence a campaign and sales team can invest time on their conversion. 
+### The main aims of this Machine Learning project are: 
+
     1.	To build a model wherein we can assign a lead score to each of the 
         leads such that the customers with higher lead score have a higher 
         conversion chance and the customers with lower lead score have a 
